@@ -1,0 +1,22 @@
+﻿id,cidade,pais,latitude,longitude,procura
+3,Evora,Portugal,39.25767,-7.93101,30
+4,Faro,Portugal,37.45453,-7.87235,40
+5,Coimbra,Portugal,40.211175,-8.410097,50
+6,Santa Maria da Feira,Portugal,40.928507,-8.548445,20
+7,Chaves,Portugal,41.754636,-7.473364,30
+8,Braganca,Portugal,41.808087,-6.767587,10
+9,Oviedo,Espanha,43.363744,-5.848890,25
+10,Toledo,Espanha,39.868249,-4.026554,25
+11,Valencia,Espanha,39.4767,-0.375933,75
+12,Saragoza,Espanha,41.652456,-0.888973,75
+13,Barcelona,Espanha,41.390648,2.172112,100
+14,Toulouse,Franca,43.603413,1.442452,100
+15,Limoges,Franca,45.8336,1.2611,100
+16,Rodano,Franca,46.34572,4.57476,30
+17,Le Mans,Franca,47.997787,0.21434,40
+18,Milao,Italia,45.463435,9.189403,100
+19,Verona,Italia,45.438998,10.988066,50
+20,Florenca,Italia,43.772748,11.252639,50
+21,Munique,Alemanha,48.135583,11.580968,75
+22,Frankfurt,Alemanha,50.112762,8.66471,50
+23,Berlim,Alemanha,52.519885,13.413721,75
